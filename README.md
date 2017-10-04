@@ -9,7 +9,7 @@ This uses version 1.10.0 of the Twilio node.js package.
 
 #### To Install
 
-    meteor add accolver:twilio-meteor
+    meteor add deanx:twilio-meteor
 
 To get started, replace ACCOUNT_SID, AUTH_TOKEN with your Twilio credentials and use some of the examples below:
 
